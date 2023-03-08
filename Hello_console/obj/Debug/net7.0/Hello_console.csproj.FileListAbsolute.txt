@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\bin\Debug\net7.0\Hello_console.exe
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\bin\Debug\net7.0\Hello_console.deps.json
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\bin\Debug\net7.0\Hello_console.runtimeconfig.json
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\bin\Debug\net7.0\Hello_console.dll
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\bin\Debug\net7.0\Hello_console.pdb
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.AssemblyInfo.cs
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.dll
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\refint\Hello_console.dll
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.pdb
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\Hello_console.genruntimeconfig.cache
+C:\Users\Макс\Desktop\УЧЕБА\Лекция 1 C#\Hello_console\obj\Debug\net7.0\ref\Hello_console.dll
